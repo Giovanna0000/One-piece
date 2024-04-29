@@ -1,4 +1,5 @@
-<h1>One piece - Bando do chapéu de palha</h1>
+<h1>One piece - Bando do chapéu de palha![](https://giovanna0000.github.io/One-piece/
+)</h1>
 <p>Projeto disponibilizado pelo Dev em dobro, dos gêmeos.
 O projeto é sobre one piece,eu segui o tema, mas modifiquei algumas imagens e adicionei personagens.</p> 
 Os usuários devem ser capazes de:
@@ -8,5 +9,3 @@ Os usuários devem ser capazes de:
 Apresentar informações do personagem.</p>
 
 ![Screenshot (1)](https://github.com/Giovanna0000/One-piece/assets/165067896/8e83641c-9eaf-4fd6-bd3d-dbbb9f9958f1) 
-
-Link do projeto: https://giovanna0000.github.io/One-piece/
